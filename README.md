@@ -12,6 +12,9 @@
 ## Methodology: The notebook is sectioned with the following topics.
 
 - Term Extraction: try different methodologies to extract terms from patents, see what method gives the best terms.
+
+- ![image](https://github.com/RagiBhatt07/NLP-Patent-Extraction/assets/124009502/24236161-29eb-4406-a7f7-01a41caa91a8)
+
 - Prepare the Gold Corpus
 - Train the Spacy Model
 - Annotate with Prodigy
